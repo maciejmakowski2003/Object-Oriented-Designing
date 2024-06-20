@@ -24,7 +24,3 @@
 6. Design patterns II
    - [instructions](https://github.com/maciejmakowski2003/Object-Oriented-Designing/blob/main/lab6/task6.pdf)
    - [source code](https://github.com/maciejmakowski2003/Object-Oriented-Designing/tree/main/lab6/src)
-
-7. Design patterns III
-   - [instructions](https://github.com/maciejmakowski2003/Object-Oriented-Designing/blob/main/lab7/task7.pdf)
-   - [source code]()
